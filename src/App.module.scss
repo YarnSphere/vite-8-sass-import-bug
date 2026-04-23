@@ -1,0 +1,6 @@
+@use "@ostack.tech/ui/scss/utils" as o-ui;
+
+.counter {
+  font-size: o-ui.$font-size-5xl;
+  color: o-ui.$primary-9;
+}
